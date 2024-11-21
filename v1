@@ -1,0 +1,5 @@
+import random 
+
+def get_user_choice()
+  choice = input("Choose Rock Paper or Scissors: ")
+  return choice
